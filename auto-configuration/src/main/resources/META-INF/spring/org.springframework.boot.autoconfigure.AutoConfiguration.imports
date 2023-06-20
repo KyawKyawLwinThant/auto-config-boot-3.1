@@ -1,0 +1,5 @@
+
+
+com.demo.config.db.HsqlDbAutoConfiguration
+com.demo.config.filestore.local.LocalFileStoreAutoConfiguration
+com.demo.config.filestore.network.NetworkFileStoreAutoConfiguration
